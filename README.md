@@ -14,6 +14,4 @@ Algumas informações sobre os vídeos:
   - Color Theme do editor: Material UI e Bluloco Dark
 - Programa para verificar as requests: Insomnia
 
-Informações pessoais:
 
-- Meu linkedin: https://www.linkedin.com/in/alexiapereira/
